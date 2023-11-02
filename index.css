@@ -1,0 +1,62 @@
+html , body{
+    width: 100%;
+    height: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.button{
+    width: 48px;
+    margin: auto;
+    padding: 9px 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 23px;
+    cursor: pointer;
+    background: black;
+    color: white;
+}
+
+.input{
+    width: 238px;
+    height: 93px;
+    border: 1px solid black;
+    border-radius: 11px;
+    background: black;
+    color: white;
+}
+
+.row{
+  margin: 3px;
+  
+}
+
+.abc1{
+    margin: 3px;
+    width: 137px;
+    background: black;
+    color: white;
+    border-radius: 18px;
+    cursor:cell;
+}
+
+.abc1:hover{
+    background: white;
+    color: black;
+}
+
